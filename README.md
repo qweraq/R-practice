@@ -1,2 +1,2 @@
-# zmqrepository
-This repository is mine
+# R语言练习项目
+用于统计学或者R语言的练习项目
